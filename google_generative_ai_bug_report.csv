@@ -1,0 +1,13 @@
+repository_name,open_bug_count
+GoogleCloudPlatform/generative-ai,0
+google/generative-ai-docs,15
+google/generative-ai-go,10
+googleapis/python-genai,0
+googleapis/go-genai,0
+googleapis/java-genai,0
+google-gemini/deprecated-generative-ai-python,20
+google-gemini/deprecated-generative-ai-js,10
+google-gemini/deprecated-generative-ai-android,10
+google-gemini/deprecated-generative-ai-swift,0
+google-gemini/deprecated-generative-ai-dart,10
+mscraftsman/generative-ai,0
